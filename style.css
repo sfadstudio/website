@@ -486,7 +486,7 @@ img {
 }
 
 .single-hero-slide {
-    height: 1000px;
+    height: 1200px;
     width: 100%;
     position: relative;
     z-index: 1;
@@ -999,12 +999,6 @@ span.accor-open {
 
 .footer-single-contact-info .contact-icon {
     margin-right: 15px;
-}
-
-.footer-single-contact-info .contact-alamat {
-    margin-right: 15px;
-    width: 50px;
-    height: 50px;
 }
 
 .footer-bottom-area {
