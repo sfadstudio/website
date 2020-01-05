@@ -568,6 +568,10 @@ img {
     margin-bottom: 20px;
 }
 
+.single-service-area img {
+    width: 40%;
+}
+
 .mosh-service-slides .owl-prev,
 .mosh-service-slides .owl-next {
     position: absolute;
